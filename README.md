@@ -2,6 +2,12 @@
 
 A comprehensive Node.js/Express backend API for digitizing aftercare brochures for myomectomy patients, featuring user authentication, symptom tracking, progress monitoring, and email notifications.
 
+## 🎥 Demo Video
+
+📹 **[Watch the Quick Demo Video](https://drive.google.com/file/d/1zeq98yj3zYoXdTtCA6zjNCNGgg-RV-N8/view?usp=sharing)**
+
+See the application in action with a comprehensive walkthrough of all features.
+
 ## 🚀 Quick Start
 
 ### Prerequisites
